@@ -7,10 +7,9 @@ A Todo List application with a Python GUI and REST API backend.
 
 ## Features
 
-- 🖥 Modern dark theme UI
+- 🖥 dark theme UI
 - ✅ Add/Edit/Delete todos
 - ☑ Toggle completion status
-- 📱 Responsive design
 - 🔄 Real-time API synchronization
 - 🛠 Error handling and validation
 - 📜 Scrollable todo list
